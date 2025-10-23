@@ -1,10 +1,4 @@
-# Hi there 👋, I'm Elango
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Elango-hub/Elango-hub/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Elango-hub/Elango-hub/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Elango-hub/Elango-hub/output/github-contribution-grid-snake.svg">
-</picture>
+# Hi there 👋, I'm Elangovan
 
 **✨ B.Tech AI & Data Science Student | 🚀 Full Stack Developer | 🧠 Building Intelligent Systems**
 
@@ -57,6 +51,6 @@
 ## 🤝 Let's Connect
 
 💬 Ask me about: `AI/ML`, `Full Stack Development`, `Data Structures`, `Spring Boot`, `React`
-📫 How to reach me: `elangovan.ai.m@gmail.com` 🔗 LinkedIn: `[Your LinkedIn Profile URL]` ---
+📫 How to reach me: `elangovan.ai.m@gmail.com` 🔗 LinkedIn: `linkedin.com/in/elangovan-m-001527290` ---
 
 **✨ "Engineering Intelligence, One Line of Code at a Time." ✨**
