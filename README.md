@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi there 👋, I'm Elango
 
-<!--
-**Elangovan2006M/Elangovan2006M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Elango-hub/Elango-hub/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Elango-hub/Elango-hub/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Elango-hub/Elango-hub/output/github-contribution-grid-snake.svg">
+</picture>
 
-Here are some ideas to get you started:
+**✨ B.Tech AI & Data Science Student | 🚀 Full Stack Developer | 🧠 Building Intelligent Systems**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+👨‍💻 Currently pursuing a **B.Tech in Artificial Intelligence & Data Science**, passionate about bridging the gap between cutting-edge AI and robust software engineering.
+💡 Driven by a fascination for building intelligent applications, from sophisticated backends to intuitive user interfaces.
+💻 Experienced in **Full Stack Development** (React & Spring Boot) and proficient with various data technologies (SQL & NoSQL).
+🧠 Strong foundation in **Data Structures & Algorithms (DSA)**, **Design & Analysis of Algorithms (DAA)**, and multiple programming languages (C++, Python, Java).
+☁️ Exploring cloud platforms like **AWS** to build scalable and efficient solutions.
+🌱 Eager to learn, experiment, and contribute to impactful projects in the AI and web development space.
+
+---
+
+## 🛠️ Tech Stack
+
+💻 **Languages:**
+   `Python` | `Java` | `C++` | `JavaScript` | `SQL`
+
+🌐 **Frontend:**
+   `React.js` | `HTML` | `CSS`
+
+⚙️ **Backend:**
+   `Spring Boot` | `Flask` (Implied from previous context) | `Firebase`
+
+🛢️ **Databases:**
+   `MySQL` | `SQLite` | `Firebase Realtime DB/Firestore`
+
+☁️ **Cloud:**
+   `AWS` (Basics)
+
+🧠 **Core Concepts:**
+   `Data Structures & Algorithms (DSA)` | `Design & Analysis of Algorithms (DAA)` | `AI/ML Fundamentals`
+
+🔧 **Tools:**
+   `Git` | `GitHub` | `Docker` (Implied)
+
+---
+
+## 🌱 Currently Exploring
+
+* Advanced **Machine Learning** & **Deep Learning** techniques.
+* Building scalable **Cloud-Native Applications** on AWS.
+* Developing end-to-end **AI-powered Web Applications**.
+
+---
+
+## 🤝 Let's Connect
+
+💬 Ask me about: `AI/ML`, `Full Stack Development`, `Data Structures`, `Spring Boot`, `React`
+📫 How to reach me: `elangovan.ai.m@gmail.com` 🔗 LinkedIn: `[Your LinkedIn Profile URL]` ---
+
+**✨ "Engineering Intelligence, One Line of Code at a Time." ✨**
