@@ -30,7 +30,7 @@
    `MySQL` | `SQLite` | `Firebase Realtime DB/Firestore`
 
 ☁️ **Cloud:**
-   `AWS` (Basics)
+   `AWS` (Basics) | `Azure`
 
 🧠 **Core Concepts:**
    `Data Structures & Algorithms (DSA)` | `Design & Analysis of Algorithms (DAA)` | `AI/ML Fundamentals`
