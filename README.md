@@ -51,6 +51,6 @@
 ## 🤝 Let's Connect
 
 💬 Ask me about: `AI/ML`, `Full Stack Development`, `Data Structures`, `Spring Boot`, `React`
-📫 How to reach me: `elangovan.ai.m@gmail.com` 🔗 LinkedIn: `linkedin.com/in/elangovan-m-001527290` ---
+📫 How to reach me: `elangovan.ai.m@gmail.com` 🔗 LinkedIn: `linkedin.com/in/elangovanai` ---
 
 **✨ "Engineering Intelligence, One Line of Code at a Time." ✨**
