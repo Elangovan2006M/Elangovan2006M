@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Elangovan
+# Hi 👋, I'm Elangovan
 
 **✨ B.Tech AI & Data Science Student | 🚀 Full Stack Developer | 🧠 Building Intelligent Systems**
 
@@ -24,19 +24,19 @@
    `React.js` | `HTML` | `CSS`
 
 ⚙️ **Backend:**
-   `Spring Boot` | `Flask` (Implied from previous context) | `Firebase`
+   `Spring Boot` | `Flask` | `Firebase`
 
 🛢️ **Databases:**
    `MySQL` | `SQLite` | `Firebase Realtime DB/Firestore`
 
 ☁️ **Cloud:**
-   `AWS` (Basics) | `Azure`
+   `AWS` | `Azure`
 
 🧠 **Core Concepts:**
    `Data Structures & Algorithms (DSA)` | `Design & Analysis of Algorithms (DAA)` | `AI/ML Fundamentals`
 
 🔧 **Tools:**
-   `Git` | `GitHub` | `Docker` (Implied)
+   `Git` | `GitHub` | `Docker`
 
 ---
 
