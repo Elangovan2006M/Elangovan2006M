@@ -1,11 +1,10 @@
 <div align="center">
-  <!-- Breathing glowing text effect using a safe SVG generator -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00D8FF&center=true&vCenter=true&width=800&lines=Hi,+I'm+Elangovan" alt="Hi, I'm Elangovan" />
+  <h1>Hi, I'm Elangovan</h1>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=B.Tech+AI+%26+Data+Science+Student;Full+Stack+Developer;Building+Intelligent+Systems" alt="Roles" />
+  <h3>B.Tech AI & Data Science Student | Full Stack Developer | Building Intelligent Systems</h3>
   
   <!-- Animated breathing/pulsing divider -->
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="600">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="600" alt="Animated divider">
 </div>
 
 <br>
